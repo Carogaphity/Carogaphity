@@ -2,9 +2,9 @@
 
 I'm into modding and little projects like that, and spend a lot of my time in video games. If you're seeing this, it's probably because of my Discord bot that allows you to play Geometry Dash in discord.
 
-Reach me on discord at @carogaph! It's my handle on most platforms.
+Reach me on discord at @carogaph_! It's my handle on most platforms.
 
-I know Python, a bit of C++, and am interested in HTML and Javascript.
+I know Python, Lua, Rust, nim, a bit of C++, and am interested in HTML and Javascript.
 
 Much love! ❤️
 <!---
